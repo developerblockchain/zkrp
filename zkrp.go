@@ -23,5 +23,5 @@
 //  * Set Membership Proofs based on the paper: Efficient protocols for set membership and range proofs, by Jan Camenisch, Rafik Chaabouni and Abhi Shelat.
 //  * Bulletproofs based on paper: Bulletproofs: Short Proofs for Confidential Transactions and More, by Benedikt Bünz, Jonathan Bootle, Dan Boneh, Andrew Poelstra, Pieter Wuille and Greg Maxwell.
 //
-// For details, see https://github.com/ing-bank/zkrp/blob/master/README.md
+// For details, see https://github.com/developerblockchain/zkrp/blob/master/README.md
 package zkrp

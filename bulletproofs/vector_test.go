@@ -21,7 +21,7 @@ import (
     "math/big"
     "testing"
 
-    "github.com/ing-bank/zkrp/util/intconversion"
+    "github.com/developerblockchain/zkrp/util/intconversion"
 )
 
 /*

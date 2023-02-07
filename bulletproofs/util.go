@@ -23,9 +23,9 @@ import (
     "errors"
     "math/big"
 
-    "github.com/ing-bank/zkrp/crypto/p256"
-    "github.com/ing-bank/zkrp/util/bn"
-    "github.com/ing-bank/zkrp/util/intconversion"
+    "github.com/developerblockchain/zkrp/crypto/p256"
+    "github.com/developerblockchain/zkrp/util/bn"
+    "github.com/developerblockchain/zkrp/util/intconversion"
 )
 
 /*

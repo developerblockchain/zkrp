@@ -1,4 +1,4 @@
-module github.com/ing-bank/zkrp
+module github.com/developerblockchain/zkrp
 
 go 1.13
 

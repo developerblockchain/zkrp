@@ -32,11 +32,11 @@ import (
     "math/big"
     "strconv"
 
-    "github.com/ing-bank/zkrp/crypto/bbsignatures"
-    "github.com/ing-bank/zkrp/crypto/bn256"
-    . "github.com/ing-bank/zkrp/util"
-    "github.com/ing-bank/zkrp/util/bn"
-    "github.com/ing-bank/zkrp/util/intconversion"
+    "github.com/developerblockchain/zkrp/crypto/bbsignatures"
+    "github.com/developerblockchain/zkrp/crypto/bn256"
+    . "github.com/developerblockchain/zkrp/util"
+    "github.com/developerblockchain/zkrp/util/bn"
+    "github.com/developerblockchain/zkrp/util/intconversion"
 )
 
 /*

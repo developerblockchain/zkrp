@@ -18,7 +18,7 @@
 package bn256
 
 import (
-    "github.com/ing-bank/zkrp/util/intconversion"
+    "github.com/developerblockchain/zkrp/util/intconversion"
 )
 
 // u is the BN parameter that determines the prime: 1868033³.

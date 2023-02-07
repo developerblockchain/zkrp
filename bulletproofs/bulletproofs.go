@@ -25,7 +25,7 @@ Asiacrypt 2008
 package bulletproofs
 
 import (
-    "github.com/ing-bank/zkrp/crypto/p256"
+    "github.com/developerblockchain/zkrp/crypto/p256"
 )
 
 var ORDER = p256.CURVE.N

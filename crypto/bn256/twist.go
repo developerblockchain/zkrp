@@ -20,7 +20,7 @@ package bn256
 import (
     "math/big"
 
-    "github.com/ing-bank/zkrp/util/intconversion"
+    "github.com/developerblockchain/zkrp/util/intconversion"
 )
 
 // twistPoint implements the elliptic curve y²=x³+3/ξ over GF(p²). Points are

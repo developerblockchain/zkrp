@@ -20,7 +20,7 @@ package bn256
 import (
     "testing"
 
-    "github.com/ing-bank/zkrp/util/intconversion"
+    "github.com/developerblockchain/zkrp/util/intconversion"
 )
 
 func TestPairings(t *testing.T) {
